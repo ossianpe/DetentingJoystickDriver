@@ -2,7 +2,7 @@ DetentingJoystickDriver
 =======================
 
 This is a joystick Driver for controlling Ardunio Leonardo with HBridge and FSRs. For more information about this project please visit:
-=
+
 http://www.egr.msu.edu/classes/ece480/capstone/fall12/group04/index.html
 
 Basic Features:
